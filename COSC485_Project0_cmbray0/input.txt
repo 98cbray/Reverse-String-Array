@@ -1,0 +1,5 @@
+COSC 485
+Spring Semester
+Theory of Computation
+
+Test Line For Reversal
